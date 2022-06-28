@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "fkgmod:block/white_gold_pressure_plate"
+    },
+    "powered=true": {
+      "model": "fkgmod:block/white_gold_pressure_plate_down"
+    }
+  }
+}

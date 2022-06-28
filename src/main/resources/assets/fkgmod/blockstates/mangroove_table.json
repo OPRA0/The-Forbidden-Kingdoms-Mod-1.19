@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "fkgmod:block/mangroove_table" },
+    "facing=east": { "model": "fkgmod:block/mangroove_table", "y": 90 },
+    "facing=south": { "model": "fkgmod:block/mangroove_table", "y": 180 },
+    "facing=west": { "model": "fkgmod:block/mangroove_table", "y": 270 }
+  }
+}

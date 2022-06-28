@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "minecraft:block/dirt",
+        "up": "fkgmod:block/venomous_podzol_top",
+        "north": "fkgmod:block/venomous_podzol_side",
+        "east": "fkgmod:block/venomous_podzol_side",
+        "south": "fkgmod:block/venomous_podzol_side",
+        "west": "fkgmod:block/venomous_podzol_side"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "#": {
+      "tag": "c:white_gold_ingots"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "fkgmod:white_gold_pressure_plate"
+  }
+}

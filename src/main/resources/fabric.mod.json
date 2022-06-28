@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.nyogu.forbiddenkingdoms.FkgMod"
+    ],
+    "client": [
+      "net.nyogu.forbiddenkingdoms.FkgClient"
     ]
   },
   "mixins": [

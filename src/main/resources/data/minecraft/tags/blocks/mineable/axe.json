@@ -1,0 +1,19 @@
+{
+  "values": [
+    "fkgmod:oak_table",
+    "fkgmod:birch_table",
+    "fkgmod:spruce_table",
+    "fkgmod:dark_oak_table",
+    "fkgmod:acacia_table",
+    "fkgmod:jungle_table",
+    "fkgmod:mangroove_table",
+
+    "fkgmod:oak_drawer",
+    "fkgmod:birch_drawer",
+    "fkgmod:spruce_drawer",
+    "fkgmod:dark_oak_drawer",
+    "fkgmod:acacia_drawer",
+    "fkgmod:jungle_drawer",
+    "fkgmod:mangroove_drawer"
+  ]
+}

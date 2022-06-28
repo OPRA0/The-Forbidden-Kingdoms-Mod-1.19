@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "fkgmod:block/moss_stone_bottom",
+        "up": "fkgmod:block/moss_stone_top",
+        "north": "fkgmod:block/moss_stone",
+        "east": "fkgmod:block/moss_stone",
+        "south": "fkgmod:block/moss_stone",
+        "west": "fkgmod:block/moss_stone"
+    }
+}

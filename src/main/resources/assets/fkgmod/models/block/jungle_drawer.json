@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "fkgmod:block/jungle_drawer_top",
+    "front": "fkgmod:block/jungle_drawer_front",
+    "side": "fkgmod:block/jungle_drawer_side",
+    "top": "fkgmod:block/jungle_drawer_top"
+  }
+}

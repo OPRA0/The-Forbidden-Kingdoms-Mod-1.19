@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "fkgmod:block/spruce_drawer_top",
+    "front": "fkgmod:block/spruce_drawer_front",
+    "side": "fkgmod:block/spruce_drawer_side",
+    "top": "fkgmod:block/spruce_drawer_top"
+  }
+}

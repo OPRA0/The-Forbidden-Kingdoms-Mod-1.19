@@ -1,0 +1,49 @@
+{
+  "values": [
+
+    "fkgmod:moss_stone",
+
+    "fkgmod:white_gold_stone",
+    "fkgmod:white_gold_cobblestone",
+
+
+    "fkgmod:black_concrete_bricks",
+    "fkgmod:blue_concrete_bricks",
+    "fkgmod:brown_concrete_bricks",
+    "fkgmod:cyan_concrete_bricks",
+    "fkgmod:gray_concrete_bricks",
+    "fkgmod:green_concrete_bricks",
+    "fkgmod:light_blue_concrete_bricks",
+    "fkgmod:light_gray_concrete_bricks",
+    "fkgmod:lime_concrete_bricks",
+    "fkgmod:magenta_concrete_bricks",
+    "fkgmod:orange_concrete_bricks",
+    "fkgmod:pink_concrete_bricks",
+    "fkgmod:purple_concrete_bricks",
+    "fkgmod:red_concrete_bricks",
+    "fkgmod:white_concrete_bricks",
+    "fkgmod:yellow_concrete_bricks",
+
+    "fkgmod:black_terracotta_bricks",
+    "fkgmod:blue_terracotta_bricks",
+    "fkgmod:brown_terracotta_bricks",
+    "fkgmod:cyan_terracotta_bricks",
+    "fkgmod:gray_terracotta_bricks",
+    "fkgmod:green_terracotta_bricks",
+    "fkgmod:light_blue_terracotta_bricks",
+    "fkgmod:light_gray_terracotta_bricks",
+    "fkgmod:lime_terracotta_bricks",
+    "fkgmod:magenta_terracotta_bricks",
+    "fkgmod:orange_terracotta_bricks",
+    "fkgmod:pink_terracotta_bricks",
+    "fkgmod:purple_terracotta_bricks",
+    "fkgmod:red_terracotta_bricks",
+    "fkgmod:white_terracotta_bricks",
+    "fkgmod:yellow_terracotta_bricks",
+
+    "fkgmod:basalt_bricks",
+
+    "fkgmod:enhanced_glass"
+
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fkgmod:block/nemesis_eye_block"
+  }
+}
