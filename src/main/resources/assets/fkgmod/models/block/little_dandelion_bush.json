@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "fkgmod:block/little_dandelion_bush"
+  }
+}

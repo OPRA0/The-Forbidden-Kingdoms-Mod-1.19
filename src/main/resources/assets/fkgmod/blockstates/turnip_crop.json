@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "fkgmod:block/turnip_stage0"
+    },
+    "age=1": {
+      "model": "fkgmod:block/turnip_stage1"
+    },
+    "age=2": {
+      "model": "fkgmod:block/turnip_stage2"
+    },
+    "age=3": {
+      "model": "fkgmod:block/turnip_stage3"
+    },
+    "age=4": {
+      "model": "fkgmod:block/turnip_stage4"
+    },
+    "age=5": {
+      "model": "fkgmod:block/turnip_stage5"
+    },
+    "age=6": {
+      "model": "fkgmod:block/turnip_stage6"
+    },
+    "age=7": {
+      "model": "fkgmod:block/turnip_stage7"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fkgmod:block/mangrove_crumbs_top",
+    "side": "fkgmod:block/mangrove_crumbs_side"
+  }
+}

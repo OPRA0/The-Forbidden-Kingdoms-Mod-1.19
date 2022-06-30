@@ -6,7 +6,8 @@
     "fkgmod:dark_oak_table",
     "fkgmod:acacia_table",
     "fkgmod:jungle_table",
-    "fkgmod:mangroove_table",
+    "fkgmod:mangrove_table",
+    "fkgmod:elm_table",
 
     "fkgmod:oak_drawer",
     "fkgmod:birch_drawer",
@@ -14,6 +15,24 @@
     "fkgmod:dark_oak_drawer",
     "fkgmod:acacia_drawer",
     "fkgmod:jungle_drawer",
-    "fkgmod:mangroove_drawer"
+    "fkgmod:mangrove_drawer",
+    "fkgmod:elm_drawer",
+
+    "fkgmod:enhanced_oak_door",
+    "fkgmod:enhanced_birch_door",
+    "fkgmod:enhanced_spruce_door",
+    "fkgmod:enhanced_dark_oak_door",
+    "fkgmod:enhanced_acacia_door",
+    "fkgmod:enhanced_jungle_door",
+    "fkgmod:enhanced_mangrove_door",
+    "fkgmod:enhanced_elm_door",
+
+    "fkgmod:oak_crumbs",
+    "fkgmod:birch_crumbs",
+    "fkgmod:spruce_crumbs",
+    "fkgmod:dark_oak_crumbs",
+    "fkgmod:acacia_crumbs",
+    "fkgmod:jungle_crumbs",
+    "fkgmod:mangrove_crumbs"
   ]
 }

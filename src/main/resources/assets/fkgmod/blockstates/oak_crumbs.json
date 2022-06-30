@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fkgmod:block/oak_crumbs_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fkgmod:block/oak_crumbs"
+    },
+    "axis=z": {
+      "model": "fkgmod:block/oak_crumbs_horizontal",
+      "x": 90
+    }
+  }
+}

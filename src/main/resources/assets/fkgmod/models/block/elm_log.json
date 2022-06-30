@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fkgmod:block/elm_log_top",
+    "side": "fkgmod:block/elm_log"
+  }
+}

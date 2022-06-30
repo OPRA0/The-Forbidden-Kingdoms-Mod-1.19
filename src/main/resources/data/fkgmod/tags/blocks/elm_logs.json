@@ -1,0 +1,9 @@
+{
+  "replaces": false,
+  "values": [
+    "fkgmod:elm_log",
+    "fkgmod:elm_wood",
+    "fkgmod:stripped_elm_log",
+    "fkgmod:stripped_elm_wood"
+  ]
+}

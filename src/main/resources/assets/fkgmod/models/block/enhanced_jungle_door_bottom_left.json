@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "fkgmod:block/enhanced_jungle_door_bottom",
+    "top": "fkgmod:block/enhanced_jungle_door_top"
+  }
+}

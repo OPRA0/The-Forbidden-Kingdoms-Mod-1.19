@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fkgmod:block/jungle_crumbs_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fkgmod:block/jungle_crumbs"
+    },
+    "axis=z": {
+      "model": "fkgmod:block/jungle_crumbs_horizontal",
+      "x": 90
+    }
+  }
+}

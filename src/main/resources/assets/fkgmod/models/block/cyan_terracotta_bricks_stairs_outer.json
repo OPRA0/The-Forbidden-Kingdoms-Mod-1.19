@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "fkgmod:block/cyan_terracotta_bricks",
+    "side": "fkgmod:block/cyan_terracotta_bricks",
+    "top": "fkgmod:block/cyan_terracotta_bricks"
+  }
+}

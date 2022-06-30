@@ -4,6 +4,7 @@
   "package": "net.nyogu.forbiddenkingdoms.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "FkgEntityDataSaver"
   ],
   "client": [
     "FkgMixin"

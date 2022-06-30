@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "fkgmod:white_gold_bricks"
+  },
+  "result": "fkgmod:white_gold_bricks_wall"
+}

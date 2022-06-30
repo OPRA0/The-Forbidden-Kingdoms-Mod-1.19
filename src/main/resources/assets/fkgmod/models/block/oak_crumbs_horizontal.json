@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "fkgmod:block/oak_crumbs_top",
+    "side": "fkgmod:block/oak_crumbs_side"
+  }
+}

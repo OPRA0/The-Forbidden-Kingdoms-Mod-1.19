@@ -1,0 +1,13 @@
+{
+  "replaces" : false,
+  "values": [
+    "fkgmod:oak_crumbs",
+    "fkgmod:acacia_crumbs",
+    "fkgmod:birch_crumbs",
+    "fkgmod:dark_oak_crumbs",
+    "fkgmod:spruce_crumbs",
+    "fkgmod:jungle_crumbs",
+    "fkgmod:mangrove_crumbs"
+
+  ]
+}

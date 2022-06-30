@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "P": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "XP"
+
+  ],
+  "result": {
+    "item": "fkgmod:mug"
+  }
+}

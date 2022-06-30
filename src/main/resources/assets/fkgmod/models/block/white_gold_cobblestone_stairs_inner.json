@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "fkgmod:block/white_gold_cobblestone",
+    "side": "fkgmod:block/white_gold_cobblestone",
+    "top": "fkgmod:block/white_gold_cobblestone"
+  }
+}

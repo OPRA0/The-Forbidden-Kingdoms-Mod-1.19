@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "fkgmod:block/little_dandelion_bush"
+  }
+}

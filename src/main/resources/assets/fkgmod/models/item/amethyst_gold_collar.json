@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fkgmod:item/amethyst_gold_collar"
+  }
+}

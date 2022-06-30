@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "fkgmod:magenta_concrete_bricks"
+  },
+  "result": "fkgmod:magenta_concrete_bricks_stairs"
+}

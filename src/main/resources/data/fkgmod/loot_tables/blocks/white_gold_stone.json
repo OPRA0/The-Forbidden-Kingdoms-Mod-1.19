@@ -24,16 +24,37 @@
                   }
                 }
               ],
-              "name": "fkgmod:white_gold_stone"
+              "name": "minecraft:gravel"
             },
             {
-              "type": "minecraft:item",
+              "type": "minecraft:alternatives",
+              "children": [
+                {
+                  "type": "minecraft:item",
+                  "conditions": [
+                    {
+                      "chances": [
+                        0.1,
+                        0.14285715,
+                        0.25,
+                        1.0
+                      ],
+                      "condition": "minecraft:table_bonus",
+                      "enchantment": "minecraft:fortune"
+                    }
+                  ],
+                  "name": "fkgmod:raw_white_gold"
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "fkgmod:white_gold_cobblestone"
+                }
+              ],
               "conditions": [
                 {
                   "condition": "minecraft:survives_explosion"
                 }
-              ],
-              "name": "fkgmod:white_gold_cobblestone"
+              ]
             }
           ]
         }

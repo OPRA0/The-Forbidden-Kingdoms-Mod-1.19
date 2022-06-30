@@ -1,0 +1,6 @@
+{
+  "parent": "fkgmod:item/handheld_big",
+  "textures": {
+    "layer0": "fkgmod:item/wither_lord_sword"
+  }
+}
